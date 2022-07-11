@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+41,Daniel,TX,4.45,Carpet,200.00,2.25,2.10,450.00,420.00,34.80,904.80
